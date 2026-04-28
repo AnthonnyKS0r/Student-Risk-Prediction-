@@ -19,7 +19,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from imblearn.over_sampling import SMOTE
 
-df = pd.read_csv('/content/data (1).csv', sep = ';')
+df = pd.read_csv('data (1).csv', sep = ';')
 df.head()
 
 df.shape
