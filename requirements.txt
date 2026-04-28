@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# API
+fastapi
+uvicorn
+
+# Validation
+pydantic
+
+# Experiment tracking
+mlflow
+
+# Optional (often needed in ML workflows)
+joblib
