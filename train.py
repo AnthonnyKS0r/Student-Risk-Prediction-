@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1uLh3YERsnERX9tYcbmZ8DOFXb7t4HiSk
 """
 
-!pip install mlflow
+pip install mlflow
 
 import numpy as np
 import pandas as pd
