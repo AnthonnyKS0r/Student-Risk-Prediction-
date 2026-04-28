@@ -4,6 +4,7 @@ pandas
 
 # Machine Learning
 scikit-learn
+imblearn
 
 # Visualization
 matplotlib
